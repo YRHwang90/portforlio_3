@@ -1,0 +1,2 @@
+"0","timemeans <- cast(mdata, time~variable, mean)"
+"0","print(timemeans)"

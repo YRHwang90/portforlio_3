@@ -1,0 +1,3 @@
+"0","library(reshape)"
+"0","mdata <- melt(small, id=c(""id"",""time""))"
+"0","print(small)"

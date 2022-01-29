@@ -1,0 +1,8 @@
+"0",""
+"0","ggplot(data=wisclong[which(wisclong$id<=20),], aes(x=time, y=verb, group=id)) +"
+"0","  geom_point()+"
+"0","  geom_line(data=wisclong[which(wisclong$id <=20 & wisclong$verb !=""NA""),])+"
+"0","              xlab(""time"")+"
+"0","              ylab(""verbal"")+ylim(0,100) +"
+"0","              facet_wrap(~id)"
+"0",""

@@ -1,0 +1,36 @@
+"0","library(psych)    "
+"0","library(ggplot2)  "
+"0","library(car)      "
+"0","library(GGally)"
+"2","package ‘GGally’ was built under R version 4.1.2"
+"2","Registered S3 method overwritten by 'GGally':
+  method from   
+  +.gg   ggplot2
+"
+"0","#install.packages('GGally')"
+"0","library(lattice) "
+"0","library(dplyr)"
+"2","
+Attaching package: ‘dplyr’
+
+"
+"2","The following object is masked from ‘package:car’:
+
+    recode
+
+"
+"2","The following object is masked from ‘package:reshape’:
+
+    rename
+
+"
+"2","The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+"
