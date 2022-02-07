@@ -1,2 +1,0 @@
-"0","filepath <- ""https://quantdev.ssri.psu.edu/sites/qdev/files/wisc3raw.csv"""
-"0","wisc3raw <- read.csv(file=url(filepath),header=TRUE)"

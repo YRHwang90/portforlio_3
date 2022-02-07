@@ -1,4 +1,0 @@
-"0","library(tidyr)"
-"0",""
-"0","countries_w_to_l_2=gather(country,time,value,population:gdp, factor_key=TRUE)"
-"0","print(countries_w_to_l_2)"

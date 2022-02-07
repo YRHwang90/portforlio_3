@@ -1,4 +1,0 @@
-"0",""
-"0","# cast(data, formula, function)"
-"0","subjmeans <- cast(mdata, id~variable, mean)"
-"0","print(subjmeans)"

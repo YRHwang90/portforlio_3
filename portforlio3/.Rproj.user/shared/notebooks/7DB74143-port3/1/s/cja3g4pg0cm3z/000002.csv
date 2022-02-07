@@ -1,4 +1,0 @@
-"0","library(tidyr)"
-"0","countries_l_to_w_2 <-spread(countries_w_to_l_2, time, value)"
-"0",""
-"0","print(countries_l_to_w_2)"
