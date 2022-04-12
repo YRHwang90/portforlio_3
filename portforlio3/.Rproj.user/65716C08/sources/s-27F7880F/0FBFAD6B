@@ -3,7 +3,7 @@
     "path": "C:/data/GitHub/Portfolio3/portforlio_3/portforlio3/port3.Rmd",
     "project_path": "port3.Rmd",
     "type": "r_markdown",
-    "hash": "1533833540",
+    "hash": "972315540",
     "contents": "",
     "dirty": false,
     "created": 1643090041012.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "143,36",
-        "scrollLine": "138"
+        "cursorPosition": "4,14",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1643432489,
+    "lastKnownWriteTime": 1649781014,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1643432489776,
+    "last_content_update": 1649781014838,
     "read_only": false,
     "read_only_alternatives": []
 }

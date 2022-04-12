@@ -2,7 +2,7 @@
 title: "Portfolio3_data_reshaping"
 author: "Yoo Ri Hwang"
 date: "1/25/2022"
-output: html_document
+output: github_document
 ---
 
 # Source & References
